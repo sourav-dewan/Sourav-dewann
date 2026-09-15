@@ -142,14 +142,6 @@ More projects coming soon! 🚀
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-🏆 **Building consistently**  
-💻 **Growing through open-source and personal projects**  
-🚀 **Working toward becoming a strong software & ML engineer**
-
 </div>
 
 > GitHub achievements and badges will appear automatically on my GitHub profile as I continue contributing and building projects.
