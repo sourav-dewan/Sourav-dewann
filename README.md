@@ -134,11 +134,13 @@ More projects coming soon! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sourav-dewann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sourav's GitHub Stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sourav-dewann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-dewann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sourav-dewann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
+
+---
 
 # 📈 GitHub Analytics
 
@@ -161,7 +163,7 @@ More projects coming soon! 🚀
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/sourav-dewann" alt="Sourav's Github Contribution Chart" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourav-dewann&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
