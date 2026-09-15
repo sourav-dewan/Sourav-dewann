@@ -134,17 +134,11 @@ More projects coming soon! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourav-dewan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sourav's GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sourav-dewann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sourav's GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-dewan&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
-
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sourav-dewann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
-
-> GitHub achievements and badges will appear automatically on my GitHub profile as I continue contributing and building projects.
 
 ---
 
@@ -171,10 +165,8 @@ More projects coming soon! 🚀
 
 ### 🐍 My Coding Activity
 
-> My contribution activity is tracked directly on my GitHub profile.
-
-<a href="https://github.com/sourav-dewan">
-<img src="https://raw.githubusercontent.com/sourav-dewan/Sourav-dewann/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<a href="https://github.com/sourav-dewann">
+<img src="https://raw.githubusercontent.com/sourav-dewann/sourav-dewann/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </a>
 
 </div>
@@ -185,7 +177,7 @@ More projects coming soon! 🚀
 
 <div align="center">
 
-<a href="https://github.com/sourav-dewan">
+<a href="https://github.com/sourav-dewann">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
