@@ -38,17 +38,22 @@ I'm currently building my foundation in **programming, Data Structures & Algorit
 
 ---
 
-## 📚 Currently Learning
+## 📚 Languages I'm Learning
 
-```text
-C / C++
-   ↓
-Data Structures & Algorithms
-   ↓
-Python
-   ↓
-SQL & Databases
-   ↓
-Web Development
-   ↓
-Artificial Intelligence
+<p align="left">
+
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
+</a>
+
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</a>
+
+</p>
+
+**Currently Learning:** C • C++ • Python
