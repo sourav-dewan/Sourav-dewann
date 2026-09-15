@@ -163,6 +163,10 @@ More projects coming soon! 🚀
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/sourav-dewann" alt="Sourav's Github Contribution Chart" />
+
+</div>
+
 ### 🐍 My Coding Activity
 
 <a href="https://github.com/sourav-dewann">
