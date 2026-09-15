@@ -108,37 +108,94 @@ More projects coming soon! 🚀
 
 # 📚 My Learning Journey
 
-```text
-Programming Fundamentals
-        ↓
-C / C++
-        ↓
-Data Structures & Algorithms
-        ↓
-Problem Solving
-        ↓
-Web Development
-        ↓
-Python & SQL
-        ↓
-Machine Learning
-        ↓
-Real-World Projects 🚀
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sourav-dewan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-dewan&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sourav-dewan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" /> </div>
-📈 GitHub Analytics
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-dewan&theme=tokyonight&hide_border=true" /> </div>
-🐍 Contribution Graph
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </div>
-🤝 Connect With Me
-<div align="center"> <a href="https://github.com/sourav-dewan"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:souravdewan28@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center">
-💙 Thanks for visiting my profile!
+**Programming Fundamentals**  
+↓  
+**C / C++**  
+↓  
+**Data Structures & Algorithms**  
+↓  
+**Problem Solving**  
+↓  
+**Web Development**  
+↓  
+**Python & SQL**  
+↓  
+**Machine Learning**  
+↓  
+**Real-World Projects** 🚀
 
-Keep Learning • Keep Building • Keep Growing 🚀
+> **Learn → Practice → Build → Improve → Repeat**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sourav-dewan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourav-dewan&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sourav-dewan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sourav-dewan&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sourav-dewan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:souravdewan28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 ⭐ Feel free to explore my repositories and connect with me!
 
-</div> ```
+</div>
