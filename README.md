@@ -134,13 +134,11 @@ More projects coming soon! 🚀
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sourav-dewann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sourav's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sourav-dewann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Sourav's GitHub Stats"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sourav-dewann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-dewann&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
-
----
 
 # 📈 GitHub Analytics
 
